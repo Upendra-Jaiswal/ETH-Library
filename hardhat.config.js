@@ -14,3 +14,5 @@ module.exports = {
     },
   },
 };
+//  // "build": "run-p build:**",
+    // "now-build": "react-scripts build"
